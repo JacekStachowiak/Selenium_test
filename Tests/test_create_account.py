@@ -20,10 +20,3 @@ class TestCreateAccount:
         my_account_pages.create_account(email, 'testeroprogramowania')
               
         assert my_account_pages.is_logout_link_displayed()  
-       
-
-    
-    
-    
-    
-    
